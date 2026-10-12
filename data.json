@@ -1,0 +1,2774 @@
+{
+  "metadata": {
+    "generated_at": "2026-09-15",
+    "identity_source": "림버스 덱 추천기 (26.09.01)의 사본 - 보유 인격 체크.pdf",
+    "ego_source": "림버스 덱 추천기 (26.09.01)의 사본 - 보유 인격 체크(1).pdf 2페이지",
+    "keyword_source": "https://limbusdeck.com/ko/database/identities",
+    "name_reference": "https://baslimbus.info/identity",
+    "identity_count": 185,
+    "ego_count": 112,
+    "notes": [
+      "PDF 1페이지에 수록된 인격 목록을 기준으로 구성함.",
+      "키워드는 Limbus Deck 인격 도감의 현재 표시값을 연결함.",
+      "키워드가 없는 인격은 빈 배열로 저장함.",
+      "체크 여부가 아니라 문서에 수록된 전체 인격 목록임. 실제 보유 목록은 시뮬레이션 전에 사용자가 조정할 수 있음.",
+      "E.G.O 등급은 PDF 2페이지의 ZAYIN·TETH·HE·WAW 구간을 기준으로 저장함."
+    ],
+    "unmatched": [],
+    "ego_grade_totals": {
+      "ZAYIN": 24,
+      "TETH": 30,
+      "HE": 39,
+      "WAW": 19
+    }
+  },
+  "identities": [
+    {
+      "sinner": "이상",
+      "identity": "검계 살수",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-salsu-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_검계.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "개화 E.G.O::동백",
+      "keywords": [
+        "진동",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/effloresced-ego-spicebush-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_동백.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "W사 3등급 정리 요원",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l3-cleanup-agent-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_W사3급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "약지 점묘파 스튜던트",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-ring-pointillist-student-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_약지점묘파.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "로보토미 E.G.O::엄숙한 애도",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-solemn-lament-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_엄숙한애도.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "남부 리우 협회 3과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-3-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_남부리우.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "N사 E.G.O::흉탄",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-ego-fell-bullet-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_흉탄.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "흑수 - 오 필두",
+      "keywords": [
+        "진동",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-wu-branch-adept-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_흑수오필두.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "거미집 검지 아비",
+      "keywords": [
+        "침잠",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-index-nursefather-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_검지아비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "LCE E.G.O::차원찢개",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lce-ego-dimension-shredder-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_차원찢개.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이상",
+      "identity": "남부 세븐 협회 6과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/seven-assoc-south-section-6-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_세븐협화6과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이상",
+      "identity": "어금니 사무소 해결사",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/molar-office-fixer-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_어금니사무소.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이상",
+      "identity": "피쿼드호 일등 항해사",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-pequod-first-mate-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_피쿼드호.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이상",
+      "identity": "남부 디에치 협회 4과",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dieci-assoc-south-section-4-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_디에치4과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이상",
+      "identity": "LCE E.G.O::초롱",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lce-ego-lantern-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_초롱.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이상",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이상_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "쥐는 자",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-one-who-grips-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_쥐는자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "남부 세븐 협회 4과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/seven-assoc-south-section-4-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_남부세븐4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "로보토미 E.G.O::후회",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-regret-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_후회.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "검계 살수",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-salsu-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_검계.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "멀티크랙 사무소 대표",
+      "keywords": [
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/multicrack-office-rep-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_멀티크랙.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "LCE E.G.O::홍염살",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lce-ego-ardor-blossom-star-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_홍염살.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "흑수 - 묘 필두",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-mao-branch-adept-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_흑수묘필두.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "동부 시 협회 3과",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/shi-assoc-east-section-3-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_시협회3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "검지 수행자: [쪽지]",
+      "keywords": [
+        "침잠",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-index-proselyte-paper-slip-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_검지수행자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "거미집 약지 제자",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-ring-apprentice-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_약지제자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "새벽 사무소 해결사",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dawn-office-fixer-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_새벽사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "W사 2등급 정리 요원",
+      "keywords": [
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l2-cleanup-agent-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_W사2급.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "살아남은 로보토미 직원",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-corp-remnant-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_로보토미직원.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "남부 츠바이 협회 4과",
+      "keywords": [],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-south-section-4-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_남부츠바이4과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "워더링하이츠 버틀러",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/wuthering-heights-butler-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_워더링하이츠.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "파우스트",
+      "identity": "LCB 수감자",
+      "keywords": [],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_파우스트_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "W사 3등급 정리 요원",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l3-cleanup-agent-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_W사3급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "남부 섕크 협회 5과 부장",
+      "keywords": [],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-south-section-5-director-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_남부섕크5과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "중지 작은 아우",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-middle-little-sister-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_중지작은아우.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "T사 3등급 징수직 직원",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/t-corp-class-3-collection-staff-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_T사3등급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "라만차랜드 실장",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-manager-of-la-manchaland-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_라만차랜드.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "동부 섕크 협회 3과",
+      "keywords": [
+        "호흡",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-east-section-3-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_동부섕크3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "로보토미 E.G.O::사랑과 증오의 이름으로",
+      "keywords": [
+        "충전",
+        "침잠",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-in-the-name-of-love-and-hate-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_사랑증오.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "흑수 - 미",
+      "keywords": [
+        "침잠",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-wei-branch-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_흑수미.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "검지 대행자 - 개화 E.G.O::대행",
+      "keywords": [
+        "침잠",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-index-proxy-effloresced-ego-procuration-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_검지대행자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "남부 시 협회 5과 부장",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/shi-assoc-south-section-5-director-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_시협회5과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "N사 중간 망치",
+      "keywords": [
+        "진동",
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-mittelhammer-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_N사중간망치.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "로보토미 E.G.O::초롱",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-lantern-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_초롱.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "검계 살수",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-salsu-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_검계.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "돈키호테",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_돈키_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "료슈",
+      "identity": "흑운회 와카슈",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-wakashu-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_흑운회와카슈.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "료.고.파. 주방장",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/rb-chef-de-cuisine-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_료고파주방장.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "W사 3등급 정리 요원",
+      "keywords": [
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l3-cleanup-agent-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_W사3급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "에드가 가문 치프 버틀러",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/edgar-family-chief-butler-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_치프버틀러.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "로보토미 E.G.O::적안·참회",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-red-eyes-and-penitence-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_적안참회.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "흑수 - 묘",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-mao-branch-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_흑수묘.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "N사 E.G.O::경멸, 경외",
+      "keywords": [
+        "진동",
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-ego-contempt-awe-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_경멸경외.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "홍원 방랑무사",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/drifting-blade-of-hongyuan-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_홍원방랑무사.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "로보토미 E.G.O::잔향·외로움",
+      "keywords": [
+        "진동",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-faint-aroma-and-solitude-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_잔향.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "거미집의 검",
+      "keywords": [
+        "출혈",
+        "호흡",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-of-the-house-of-spiders-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_거미집의검.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "오트쿠튀르::르누아루 신발관",
+      "keywords": [
+        "진동",
+        "충전"
+      ],
+      "source_url": "",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_르누아르신발관.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "료슈",
+      "identity": "남부 세븐 협회 6과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/seven-assoc-south-section-6-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_남부세븐6과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "료슈",
+      "identity": "LCCB 대리",
+      "keywords": [
+        "진동",
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lccb-assistant-manager-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_LCCB대리.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "료슈",
+      "identity": "남부 리우 협회 4과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-4-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_남부리우4과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "료슈",
+      "identity": "20구 유로지비",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/district-20-yurodivy-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_20구유로지비.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "료슈",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_료슈_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "W사 2등급 정리 요원",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l2-cleanup-agent-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_W사2급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "N사 큰 망치",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-grosshammer-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_N사큰망치.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "R사 제 4무리 코뿔소팀",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/r-corp-4th-pack-rhino-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_R사코뿔소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "검계 우두머리",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-mentor-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_검계.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "남부 디에치 협회 4과 부장",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dieci-assoc-south-section-4-director-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_남부디에치4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "서부 섕크 협회 3과",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-west-section-3-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_서부섕크3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "동부 엄지 카포 IIII",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-thumb-east-capo-iiii-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_동부엄지카포.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "라만차랜드 왕자",
+      "keywords": [
+        "출혈",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-prince-of-la-manchaland-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_라만차랜드.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "로보토미 E.G.O::호넷 [변조]",
+      "keywords": [
+        "출혈",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-hornet-alteration-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_호넷변조.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "약지 야수파 스튜던트",
+      "keywords": [
+        "출혈",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-ring-fauvist-student-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_약지야수파.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "남부 리우 협회 6과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-6-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_남부리우6과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "장미스패너 공방 해결사",
+      "keywords": [
+        "진동",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/rosespanner-workshop-fixer-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_장미스패너.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "중지 작은 아우",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-middle-little-brother-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_중지작은아우.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "데드레빗츠 보스",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dead-rabbits-boss-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_데드레빗츠.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "뫼르소",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_뫼르소_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "홍루",
+      "identity": "콩콩이파 두목",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/tingtang-gang-gangleader-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_콩콩이파.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "K사 3등급 적출직 직원",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/k-corp-class-3-excision-staff-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_K사3등급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "남부 디에치 협회 4과",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dieci-assoc-south-section-4-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_남부디에치4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "20구 유로지비",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/district-20-yurodivy-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_20구유로지비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "마침표 사무소 대표",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/full-stop-office-rep-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_마침표.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "R사 제 4무리 순록팀",
+      "keywords": [
+        "충전",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/r-corp-4th-pack-reindeer-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_R사순록.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "홍원 군주",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-lord-of-hongyuan-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_홍원군주.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "거미집 약지 아비",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-ring-nursefather-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_약지아비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "S사 추노꾼",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/s-corp-chunokkun-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_S사추노꾼.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "동부 섕크 협회 3과",
+      "keywords": [
+        "호흡",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-east-section-3-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_동부섕크3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "홍루",
+      "identity": "흑운회 와카슈",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-wakashu-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_흑운회와카슈.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "홍루",
+      "identity": "남부 리우 협회 5과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-5-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_남부리우5과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "홍루",
+      "identity": "W사 2등급 정리 요원",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l2-cleanup-agent-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_W사2등급.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "홍루",
+      "identity": "갈고리 사무소 해결사",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/hook-office-fixer-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_갈고리사무소.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "홍루",
+      "identity": "송곳니 사냥 사무소 해결사",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/fanghunt-office-fixer-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_송곳니사무소.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "홍루",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "침잠",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_홍루_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "R사 제 4무리 토끼팀",
+      "keywords": [
+        "출혈",
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/r-corp-4th-pack-rabbit-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_R사토끼.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "로보토미 E.G.O::여우비",
+      "keywords": [
+        "침잠",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-sunshower-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_여우비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "피쿼드호 작살잡이",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-pequod-harpooneer-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_피쿼드호.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "남부 외우피 협회 3과",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/oufi-assoc-south-section-3-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_외우피3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "와일드헌트",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/wild-hunt-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_와일드헌트.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "마침표 사무소 해결사",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/full-stop-office-fixer-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_마침표.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "흑운회 와카슈",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-wakashu-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_흑운회와카슈.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "W사 4등급 정리 요원 - CCA",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l4-cleanup-agent-cca-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_W사4등급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "흑수 - 유 필두",
+      "keywords": [
+        "파열",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-you-branch-adept-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_흑수유필두.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "중지 작은 형님",
+      "keywords": [
+        "출혈",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-middle-big-brother-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_중지작은형님.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "거미집 엄지 제자",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-thumb-apprentice-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_엄지제자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "남부 시 협회 5과",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/shi-assoc-south-section-5-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_시협회5과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "N사 작은 망치",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-kleinhammer-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_N사망치.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "남부 세븐 협회 4과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/seven-assoc-south-section-4-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_남부세븐4과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "멀티크랙 사무소 해결사",
+      "keywords": [
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/multicrack-office-fixer-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_멀티크랙.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "히스클리프",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_히스_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "R사 제 4무리 순록팀",
+      "keywords": [
+        "충전",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/r-corp-4th-pack-reindeer-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_R사순록.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "남부 리우 협회 4과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-4-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_리우4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "어금니 보트 센터 해결사",
+      "keywords": [
+        "진동",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/molar-boatworks-fixer-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_어금니보트.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "피쿼드호 선장",
+      "keywords": [
+        "출혈",
+        "호흡",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-pequod-captain-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_피쿼드호.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "서부 츠바이 협회 3과",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-west-section-3-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_츠바이3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "흑운회 부조장",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-captain-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_흑운회.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "가주 후보",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/family-hierarch-candidate-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_가주후보.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "정사무소 대표",
+      "keywords": [
+        "진동",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/jeongs-office-rep-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_정사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "거미집 중지 제자",
+      "keywords": [
+        "출혈",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-middle-apprentice-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_중지제자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "LCD 현장추리팀",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcd-osir-team-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_LCD현장추리팀.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "오트쿠튀르::르루주 부티크",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_르루주부티크.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "남부 시 협회 5과",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/shi-assoc-south-section-5-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_시협화5과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "LCCB 대리",
+      "keywords": [
+        "진동",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lccb-assistant-manager-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_LCCB대리.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "로보토미 E.G.O::출렁임",
+      "keywords": [
+        "진동",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-sloshing-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_출렁임.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "에드가 가문 버틀러",
+      "keywords": [
+        "침잠",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/edgar-family-butler-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_버틀러.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "이스마엘",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_이스_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "흑운회 와카슈",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-wakashu-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_흑운회와카슈.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "장미스패너 공방 대표",
+      "keywords": [
+        "진동",
+        "충전"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/rosespanner-workshop-rep-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_장미스패너.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "남부 디에치 협회 4과",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dieci-assoc-south-section-4-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_디에치4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "남부 리우 협회 4과 부장",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-4-director-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_리우4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "북부 제뱌찌 협회 3과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/devyat-assoc-north-section-3-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_제뱌찌3과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "라만차랜드 공주",
+      "keywords": [
+        "출혈",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-princess-of-la-manchaland-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_라만차랜드.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "흑수 - 사",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-si-branch-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_흑수사.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "로보토미 E.G.O::눈물로 벼려낸 검",
+      "keywords": [
+        "충전",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-the-sword-sharpened-with-tears-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_눈물로벼려낸검.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "R사 제 4무리 순록팀",
+      "keywords": [
+        "충전",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/r-corp-4th-pack-reindeer-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_R사순록.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "약지 야수파 도슨트",
+      "keywords": [
+        "출혈",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-ring-fauvist-docent-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_약지야수파.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "거미집 엄지 아비",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-thumb-nursefather-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_엄지아비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "오트쿠튀르::수선실",
+      "keywords": [
+        "진동",
+        "충전"
+      ],
+      "source_url": "",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_수선실.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "LCCB 대리",
+      "keywords": [],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lccb-assistant-manager-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_LCCB대리.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "N사 중간 망치",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/n-corp-mittelhammer-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_N사중간망치.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "남부 츠바이 협회 5과",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-south-section-5-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_남부츠바이5과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "T사 2등급 징수직 직원",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/t-corp-class-2-collection-staff-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_T사2등급.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "로쟈",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_로쟈_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "검계 살수",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-salsu-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_검계.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "쥐어들 자",
+      "keywords": [
+        "출혈",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-one-who-shall-grip-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_쥐어들자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "남부 섕크 협회 4과 부장",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-south-section-4-director-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_섕크4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "새벽 사무소 해결사",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dawn-office-fixer-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_새벽사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "북부 제뱌찌 협회 3과",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/devyat-assoc-north-section-3-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_제뱌찌.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "중지 작은 아우",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-middle-little-brother-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_중지작은아우.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "동부 엄지 솔다토 II",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-thumb-east-soldato-ii-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_엄지솔다토.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "흑수 - 유",
+      "keywords": [
+        "파열",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-you-branch-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_흑수유.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "거미집 소지 제자",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-pinky-apprentice-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_소지제자.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "남부 츠바이 협회 6과",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-south-section-6-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_츠바이6과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "마리아치 보스",
+      "keywords": [
+        "침잠",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/los-mariachis-jefe-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_마리아치.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "로보토미 E.G.O::홍적",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-red-sheet-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_홍적.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "어금니 보트 센터 해결사",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/molar-boatworks-fixer-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_어금니보트.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "서부 츠바이 협회 3과",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-west-section-3-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_츠바이3과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "싱클레어",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_싱클_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "오티스",
+      "identity": "남부 세븐 협회 6과 부장",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/seven-assoc-south-section-6-director-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_세븐6과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "어금니 사무소 해결사",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/molar-office-fixer-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_어금니사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "로보토미 E.G.O::마탄",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-magic-bullet-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_마탄.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "워더링하이츠 치프 버틀러",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/wuthering-heights-chief-butler-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_워더링하이츠.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "W사 3등급 정리 요원 팀장",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/w-corp-l3-cleanup-captain-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_W사3급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "라만차랜드 이발사",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-barber-of-la-manchaland-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_라만차랜드.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "흑수 - 묘",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-mao-branch-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_흑수묘.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "T사 3등급 강력징수직 직원",
+      "keywords": [
+        "진동"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/t-corp-class-3-vdcu-staff-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_T사3등급.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "LCA 우제트 선봉 3팀 팀장",
+      "keywords": [
+        "진동",
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lca-udjat-vanguard-team-3-leader-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_우제트.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "거미집 중지 아비",
+      "keywords": [
+        "출혈",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-house-of-spiders-the-middle-nursefather-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_중지아비.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "오티스",
+      "identity": "검계 살수",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/blade-lineage-salsu-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_검계.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "오티스",
+      "identity": "G사 부장",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/g-corp-head-manager-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_G사.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "오티스",
+      "identity": "남부 섕크 협회 4과",
+      "keywords": [
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/cinq-assoc-south-section-4-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_섕크4과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "오티스",
+      "identity": "약지 점묘파 스튜던트",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-ring-pointillist-student-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_약지점묘파.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "오티스",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_오티스_LCB수감자.webp",
+      "rarity": 1
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "G사 일등대리",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/g-corp-manager-corporal-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_G사일등대리.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "남부 츠바이 협회 4과",
+      "keywords": [],
+      "source_url": "https://limbusdeck.com/ko/database/identities/zwei-assoc-south-section-4-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_츠바이4과.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "쌍갈고리 해적단 부선장",
+      "keywords": [
+        "출혈",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/twinhook-pirates-first-mate-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_쌍갈고리.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "에드가 가문 승계자",
+      "keywords": [
+        "침잠"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/edgar-family-heir-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_에드가.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "라만차랜드 신부",
+      "keywords": [
+        "출혈",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/the-priest-of-la-manchaland-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_라만차랜드.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "불주먹 사무소 생존자",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/firefist-office-survivor-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_불주먹사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "흑수 - 사",
+      "keywords": [
+        "파열",
+        "호흡"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/heishou-pack-si-branch-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_흑수사.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "밤의 송곳 카피타노",
+      "keywords": [
+        "진동",
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/night-awls-capitano-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_밤의송곳.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "로보토미 E.G.O::램프",
+      "keywords": [
+        "침잠",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lobotomy-ego-lamp-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_램프.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "LCE E.G.O::AEDD",
+      "keywords": [
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lce-ego-aedd-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_AEDD.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "새벽 사무소 대표",
+      "keywords": [
+        "진동",
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/dawn-office-rep-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_새벽사무소.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "남부 리우 협회 6과",
+      "keywords": [
+        "화상"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/liu-assoc-south-section-6-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_리우6과.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "료.고.파. 조수",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/rb-sous-chef-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_료고파.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "장미스패너 공방 해결사",
+      "keywords": [
+        "진동",
+        "충전",
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/rosespanner-workshop-fixer-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_장미스패너.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "흑운회 부조장",
+      "keywords": [
+        "출혈"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/kurokumo-clan-captain-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_흑운회부조장.webp",
+      "rarity": 2
+    },
+    {
+      "sinner": "그레고르",
+      "identity": "LCB 수감자",
+      "keywords": [
+        "파열"
+      ],
+      "source_url": "https://limbusdeck.com/ko/database/identities/lcb-sinner-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/identity_그렉_LCB수감자.webp",
+      "rarity": 1
+    }
+  ],
+  "egos": [
+    {
+      "sinner": "이상",
+      "ego": "오감도",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/crows-eye-view-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_오감도.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "지난 날",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/bygone-days-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_지난날.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "4번째 성냥불",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/4th-match-flame-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_성냥불.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "소망석",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/wishing-cairn-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_소망석.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "차원찢개",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/dimension-shredder-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_차원찢개.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "흉탄",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/fell-bullet-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_흉탄.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "엄숙한 애도",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/solemn-lament-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_엄숙한애도.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "여우비",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/sunshower-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_여우비.webp"
+    },
+    {
+      "sinner": "이상",
+      "ego": "삼천대세계",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-yi-sang",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이상_삼천대세계.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "표상 방출기",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/representation-emitter-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_표상.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "저주못",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/hex-nail-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_저주못.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "9장 2절",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/92-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_9장2절.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "올가미",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lasso-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_올가미.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "물주머니",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/fluid-sac-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_물주머니.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "전봇대",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/telepole-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_전봇대.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "흉통",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/thoracalgia-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_흉통.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "명령:용해",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/command-meltdown-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_명령용해.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "홍염살",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ardor-blossom-star-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_홍염살.webp"
+    },
+    {
+      "sinner": "파우스트",
+      "ego": "영속",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/everlasting-faust",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_영속.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "라 샹그레 데 산쵸",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/la-sangre-de-sancho-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_라샹그레데산쵸.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "난 가위를 낼게, 너는?",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ill-go-fer-scissors-how-bout-you-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_가위.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "평생 스튜",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lifetime-stew-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_스튜.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "소망석",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/wishing-cairn-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_소망석.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "전기울음",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/electric-screaming-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_전기울음.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "물주머니",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/fluid-sac-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_물주머니.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "전봇대",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/telepole-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_전봇대.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "홍적",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/red-sheet-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_홍적.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "갈망 - 미르칼라",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/yearning-mircalla-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_갈망.webp"
+    },
+    {
+      "sinner": "돈키호테",
+      "ego": "사랑과 증오의 이름으로",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/in-the-name-of-love-and-hate-don-quixote",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_돈키_사랑증오.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "삼라염상",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/forest-for-the-flames-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_삼라염상.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "소다",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/soda-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_소다.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "적안",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/red-eyes-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_적안_TETH.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "맹목",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/blind-obsession-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_맹목.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "4번째 성냥불",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/4th-match-flame-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_성냥불.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "적안(開)",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/red-eyes-%28open%29-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_적안_HE.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "흉통",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/thoracalgia-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_흉통.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "경멸, 경외",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/contempt-awe-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_경멸경외.webp"
+    },
+    {
+      "sinner": "료슈",
+      "ego": "삼천대세계",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-ryoshu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_료슈_삼천대세계.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "타인의 사슬",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/chains-of-others-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_타인의사슬.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "나사빠진 일격",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/screwloose-wallop-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_나사빠진일격.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "후회",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/regret-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_후회.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "전기울음",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/electric-screaming-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_전기울음.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "집행",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/pursuance-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_집행.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "카포테",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/capote-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_카포테.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "착영휘도",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/shadow-vested-bladesinger-%5B%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80%5D-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_착영휘도.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "갈망 - 미르칼라",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/yearning-mircalla-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_갈망.webp"
+    },
+    {
+      "sinner": "뫼르소",
+      "ego": "분쇄될 과거",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/crushbound-past-meursault",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_분쇄될과거.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "허환경",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/land-of-illusion-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_허환경.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "분홍욕망",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/roseate-desire-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_분홍욕망.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "소다",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/soda-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_소다.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "낮은울음",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/cavernous-wailing-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_낮은울음.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "올가미",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lasso-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_올가미.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "차원찢개",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/dimension-shredder-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_차원찢개.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "들끓는 부식",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/effervescent-corrosion-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_들끓는부식.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "영작오",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/to-remain-oneself-%5B%E5%AE%81%E4%BD%9C%E5%90%BE%5D-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_영작오.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "오혈읍루",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-hong-lu",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_오혈읍루.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "시체자루",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/bodysack-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_시체자루.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "홀리데이",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/holiday-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_홀리데이.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "AEDD",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/aedd-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_AEDD.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "흉탄",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/fell-bullet-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_흉탄.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "입주 신고",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/move-in-reg-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_입주신고.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "전봇대",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/telepole-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_전봇대.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "공즉시색",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ya-%C5%9Bunyat%C4%81-tad-rupam-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_공즉시색.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "쏠린 관성",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/asymmetrical-inertia-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_쏠린관성.webp"
+    },
+    {
+      "sinner": "히스클리프",
+      "ego": "구속",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/binds-heathcliff",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_히스_구속.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "작살박이",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/snagharpoon-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_작살박이.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "즉저살",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/hundred-footed-death-maggot-%5B%E8%9D%8D%E8%9B%86%E6%AE%BA%5D-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_즉저살.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "분홍욕망",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/roseate-desire-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_분홍욕망.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "카포테",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/capote-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_카포테.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "지난 날",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/bygone-days-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_지난날.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "홍염살",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ardor-blossom-star-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_홍염살.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "날갯짓",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/wingbeat-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_날갯짓.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "크리스마스 악몽",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/christmas-nightmare-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_크리스마스악몽.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "파도의 만가",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/tidal-elegy-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_파도의만가.webp"
+    },
+    {
+      "sinner": "이스마엘",
+      "ego": "맹목",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/blind-obsession-ishmael",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_이스_맹목.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "던져지는 것",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/what-is-cast-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_던져지는것.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "노을 속으로",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/into-the-sunset-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_노을속으로.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "얼음다리",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/rime-shank-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_얼음다리.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "들끓는 부식",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/effervescent-corrosion-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_들끓는부식.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "4번째 성냥불",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/4th-match-flame-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_성냥불.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "집행",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/pursuance-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_집행.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "저주못",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/hex-nail-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_저주못.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "핏빛욕망",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/sanguine-desire-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_핏빛욕망.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "지정 재판",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/indicants-trial-rodion",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_지정재판.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "지식나무의 가지",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/branch-of-knowledge-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_지식나무.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "낮은울음",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/cavernous-wailing-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_낮은울음.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "다가올날",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/impending-day-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_다가올날.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "평생 스튜",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lifetime-stew-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_평생스튜.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "저주못",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/hex-nail-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_저주못.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "초롱",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lantern-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_초롱.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "9장 2절",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/92-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_9장2절.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "하모니",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/harmony-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_하모니.webp"
+    },
+    {
+      "sinner": "싱클레어",
+      "ego": "오혈읍루",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-sinclair",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_싱클_오혈읍루.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "토 파토스 마토스",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/to-p%C3%A1thos-m%C3%A1thos-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_토파토스마토스.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "난 가위를 낼게, 너는?",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ill-go-fer-scissors-how-bout-you-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_가위.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "공즉시색",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ya-%C5%9Bunyat%C4%81-tad-rupam-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_공즉시색.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "여우비",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/sunshower-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_여우비.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "검은줄기",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/ebony-stem-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_검은줄기.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "홀리데이",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/holiday-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_홀리데이.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "차원찢개",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/dimension-shredder-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_차원찢개.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "마탄",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/magic-bullet-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_마탄.webp"
+    },
+    {
+      "sinner": "오티스",
+      "ego": "구속",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/binds-outis",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_오티스_구속.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "어느날 갑자기",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/suddenly-one-day-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_어느날갑자기.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "눈속임",
+      "grade": "ZAYIN",
+      "source_url": "https://limbusdeck.com/ko/database/egos/legerdemain-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_눈속임.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "초롱",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/lantern-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_초롱.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "지난 날",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/bygone-days-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_지난날.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "입주 신고",
+      "grade": "TETH",
+      "source_url": "https://limbusdeck.com/ko/database/egos/move-in-reg-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_입주신고.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "AEDD",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/aedd-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_aedd.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "엄숙한 애도",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/solemn-lament-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_엄숙한애도.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "크리스마스 악몽",
+      "grade": "HE",
+      "source_url": "https://limbusdeck.com/ko/database/egos/christmas-nightmare-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_크리스마스악몽.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "가시 화원",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/garden-of-thorns-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_가시화원.webp"
+    },
+    {
+      "sinner": "그레고르",
+      "ego": "눈부시지 않은 영광",
+      "grade": "WAW",
+      "source_url": "https://limbusdeck.com/ko/database/egos/unbrilliant-glory-gregor",
+      "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_그렉_눈부시지않은영광.webp"
+    }
+  ]
+}
