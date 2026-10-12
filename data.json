@@ -448,6 +448,17 @@
     },
     {
       "sinner": "돈키호테",
+      "identity": "오트쿠튀르::르누아르 브랜드 매니저",
+      "keywords": [
+        "진동",
+        "충전"
+      ],
+      "source_url": "",
+      "image_url": "/images/identity_돈키_르누아르매니저.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "돈키호테",
       "identity": "남부 시 협회 5과 부장",
       "keywords": [
         "호흡"
@@ -2120,6 +2131,13 @@
       "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_파우스트_영속.webp"
     },
     {
+      "sinner": "파우스트",
+      "ego": "구멍",
+      "grade": "WAW",
+      "source_url": "",
+      "image_url": "/images/ego_파우스트_구멍.webp"
+    },
+    {
       "sinner": "돈키호테",
       "ego": "라 샹그레 데 산쵸",
       "grade": "ZAYIN",
@@ -2316,6 +2334,13 @@
       "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_뫼르소_분쇄될과거.webp"
     },
     {
+      "sinner": "뫼르소",
+      "ego": "구멍",
+      "grade": "WAW",
+      "source_url": "",
+      "image_url": "/images/ego_뫼르소_구멍.webp"
+    },
+    {
       "sinner": "홍루",
       "ego": "허환경",
       "grade": "ZAYIN",
@@ -2377,6 +2402,13 @@
       "grade": "WAW",
       "source_url": "https://limbusdeck.com/ko/database/egos/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-hong-lu",
       "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_홍루_오혈읍루.webp"
+    },
+    {
+      "sinner": "홍루",
+      "ego": "거절선포",
+      "grade": "ZAYIN",
+      "source_url": "",
+      "image_url": "/images/ego_홍루_거절선포.webp"
     },
     {
       "sinner": "히스클리프",
@@ -2573,6 +2605,13 @@
       "grade": "WAW",
       "source_url": "https://limbusdeck.com/ko/database/egos/indicants-trial-rodion",
       "image_url": "https://limbus-mirror-draft-test.hero9812.chatgpt.site/images/ego_로쟈_지정재판.webp"
+    },
+    {
+      "sinner": "로쟈",
+      "ego": "거울촉각",
+      "grade": "TETH",
+      "source_url": "",
+      "image_url": "/images/ego_로쟈_거울촉각.webp"
     },
     {
       "sinner": "싱클레어",
