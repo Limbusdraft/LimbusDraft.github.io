@@ -1616,6 +1616,17 @@
     },
     {
       "sinner": "싱클레어",
+      "identity": "오트쿠튀르::르루주 붉은 신",
+      "keywords": [
+        "출혈",
+        "충전"
+      ],
+      "source_url": "",
+      "image_url": "/images/identity_싱클_붉은신.webp",
+      "rarity": 3
+    },
+    {
+      "sinner": "싱클레어",
       "identity": "남부 츠바이 협회 6과",
       "keywords": [
         "진동"
